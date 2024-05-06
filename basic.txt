@@ -1,2 +1,23 @@
 안녕하세요!
 반갑습니다.
+
+//git config --global core.autocrlf true
+
+// git init
+// : 깃 사용 시작
+
+// --- 사용자 등록 ------
+
+//
+// git add .
+// : 스테이징
+
+// git commit -m "메시지 입력"
+// 로컬 리포지토리에 기록
+
+// 원격 주소를 사용 로컬 저장소 - 원격 저장소 연결
+// git remote add origin 원격주소지 URL
+
+
+// 로컬의 데이터 >> 원격에 저장
+// git push origin master
