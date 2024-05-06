@@ -1,6 +1,7 @@
 안녕하세요!
 반갑습니다.
 
+
 //git config --global core.autocrlf true
 
 // git init
@@ -21,3 +22,6 @@
 
 // 로컬의 데이터 >> 원격에 저장
 // git push origin master
+
+---------------------------
+여기서 부터는 git-practice에서작성되었습니다
